@@ -1,0 +1,17 @@
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\bin\Debug\net6.0-windows\asal_sayi_ödevi.exe
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\bin\Debug\net6.0-windows\asal_sayi_ödevi.deps.json
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\bin\Debug\net6.0-windows\asal_sayi_ödevi.runtimeconfig.json
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\bin\Debug\net6.0-windows\asal_sayi_ödevi.dll
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\bin\Debug\net6.0-windows\asal_sayi_ödevi.pdb
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.Form1.resources
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.csproj.GenerateResource.cache
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.AssemblyInfoInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.AssemblyInfo.cs
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.dll
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\refint\asal_sayi_ödevi.dll
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.pdb
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\asal_sayi_ödevi.genruntimeconfig.cache
+C:\Users\ismai\OneDrive\Masaüstü\New folder\oop\asal_sayi_ödevi\asal_sayi_ödevi\obj\Debug\net6.0-windows\ref\asal_sayi_ödevi.dll
